@@ -218,3 +218,10 @@ Tasks:
 CoreTech data analysis helps understand customers,
 improve services, predict project outcomes,
 and support business decisions.
+## Dashboard Charts
+
+![Bar Chart](charts/bar_chart.png)
+
+![Pie Chart](charts/pie_chart.png)
+
+![Sentiment](charts/sentiment_chart.png)
